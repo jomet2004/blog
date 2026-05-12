@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+dist/
+.env
+
+# Database
+blog.db
+blog.db-journal
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
